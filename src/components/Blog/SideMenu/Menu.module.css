@@ -1,0 +1,26 @@
+  .menu {
+      background-color: darkcyan;
+      display: flex;
+      flex-direction: column;
+  }
+
+  .top {
+      text-align: left;
+      font-size: 20px;
+      font-weight: bold;
+      background-color: blue;
+      padding: 10px;
+      display: flex;
+      justify-content: space-between;
+  }
+
+  .points {
+      font-size: 15px;
+      font-weight: bold;
+      text-align: left;
+  }
+
+
+  .button {
+      border: none
+  }
